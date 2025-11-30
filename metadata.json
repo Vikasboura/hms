@@ -1,0 +1,7 @@
+{
+  "name": "MediNexus HMS",
+  "description": "A comprehensive, multi-tenant Hospital Management System with role-based access control, patient lifecycle management, and AI assistance.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}

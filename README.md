@@ -2,7 +2,6 @@
 
 A modern, multi-tenant Hospital Management System built with **Next.js 15**, **TypeScript**, and **Prisma**. This application is designed to streamline hospital operations, managing everything from patient registration to billing and lab reports.
 
-![Dashboard Preview](dashboard.png)
 
 ## 🚀 Features
 
@@ -27,14 +26,6 @@ A modern, multi-tenant Hospital Management System built with **Next.js 15**, **T
 -   **Auth**: [NextAuth.js](https://next-auth.js.org/) (v5)
 -   **Forms**: React Hook Form + Zod
 -   **Payments**: Razorpay
-
-## 📸 Screenshots
-
-### Login Page
-![Login Page](login_page.png)
-
-### Dashboard
-![Dashboard](dashboard.png)
 
 ## ⚡ Getting Started
 
